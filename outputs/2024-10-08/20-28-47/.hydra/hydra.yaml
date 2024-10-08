@@ -140,7 +140,7 @@ hydra:
     - path: ''
       schema: structured
       provider: schema
-    output_dir: /Users/rehamjamal/Desktop/DL_use_case/outputs/2024-10-08/17-57-19
+    output_dir: /Users/rehamjamal/Desktop/DL_use_case/outputs/2024-10-08/20-28-47
     choices:
       hydra/env: default
       hydra/callbacks: null
